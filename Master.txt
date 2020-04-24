@@ -12,3 +12,7 @@
 /data/Map004.json https://raw.githubusercontent.com/Umupafa/testt/master/Map004.json
 /data/Map005.json https://raw.githubusercontent.com/Umupafa/testt/master/Map005.json
 <End of Version>
+
+<Version: 3.00>
+/data/Map002.json https://raw.githubusercontent.com/Umupafa/testt/master/Map002.json
+<End of Version>
